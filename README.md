@@ -163,6 +163,3 @@ class ProductController extends Controller
 
 ## Contributors
 - Daryl Dave Llarenas (Developer)
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
